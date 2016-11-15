@@ -1,0 +1,25 @@
+{
+  "name": "node-ipam",
+  "version": "0.0.0",
+  "description": "open-source IP address management web application",
+  "main": "ipam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://xabinapal@github.com/xabinapal/node-ipam.git"
+  },
+  "author": "Xabier Napal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xabinapal/node-ipam/issues"
+  },
+  "homepage": "https://github.com/xabinapal/node-ipam#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

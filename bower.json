@@ -1,0 +1,17 @@
+{
+  "name": "node-ipam",
+  "description": "open-source IP address management web application",
+  "main": "ipam.js",
+  "authors": [
+    "Xabier Napal"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
